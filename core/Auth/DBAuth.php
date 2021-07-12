@@ -13,8 +13,8 @@ class DBAuth {
     }
 
     /**
-     * @param $username
-     * @param $password
+     * @param    $username
+     * @param   $password
      * @return boolean
      */
 
